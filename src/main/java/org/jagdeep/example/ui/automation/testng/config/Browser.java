@@ -2,7 +2,7 @@
  * @author jagdeepjain
  *
  */
-package org.google.ui.test.config;
+package org.jagdeep.example.ui.automation.testng.config;
 
 import java.util.concurrent.TimeUnit;
 

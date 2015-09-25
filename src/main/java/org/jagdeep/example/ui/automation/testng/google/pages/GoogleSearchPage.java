@@ -2,7 +2,7 @@
  * @author jagdeepjain
  *
  */
-package org.google.ui.pages;
+package org.jagdeep.example.ui.automation.testng.google.pages;
 
 import java.util.ArrayList;
 import java.util.List;

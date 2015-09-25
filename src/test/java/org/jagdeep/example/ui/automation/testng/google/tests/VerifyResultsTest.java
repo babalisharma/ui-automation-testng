@@ -2,7 +2,7 @@
  * @author jagdeepjain
  *
  */
-package org.google.ui.tests;
+package org.jagdeep.example.ui.automation.testng.google.tests;
 
 import java.io.IOException;
 import java.util.List;
@@ -13,9 +13,9 @@ import org.testng.annotations.Test;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.Assert;
-import org.google.ui.pages.GoogleSearchPage;
-import org.google.ui.test.common.ScreenShotMaker;
-import org.google.ui.test.config.Browser;
+import org.jagdeep.example.ui.automation.testng.common.ScreenShotMaker;
+import org.jagdeep.example.ui.automation.testng.config.Browser;
+import org.jagdeep.example.ui.automation.testng.google.pages.GoogleSearchPage;
 
 /*
  *  Verify that when user googles 'testng' he will get first results has 'TestNG - Welcome'   

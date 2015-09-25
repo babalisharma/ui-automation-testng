@@ -2,7 +2,7 @@
  * @author jagdeepjain
  *
  */
-package org.google.ui.test.common;
+package org.jagdeep.example.ui.automation.testng.common;
 
 import java.io.File;
 import java.io.IOException;
